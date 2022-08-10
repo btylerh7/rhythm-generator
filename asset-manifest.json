@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/rhythm-generator/static/css/main.611edd22.css",
+    "main.js": "/rhythm-generator/static/js/main.8cfc6e9a.js",
+    "index.html": "/rhythm-generator/index.html",
+    "main.611edd22.css.map": "/rhythm-generator/static/css/main.611edd22.css.map",
+    "main.8cfc6e9a.js.map": "/rhythm-generator/static/js/main.8cfc6e9a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.611edd22.css",
+    "static/js/main.8cfc6e9a.js"
+  ]
+}
